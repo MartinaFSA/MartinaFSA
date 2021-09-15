@@ -1,7 +1,7 @@
-:wave: Hola! Gracias por entrar a mi perfil.
+<em>Hola! Gracias por entrar a mi perfil.</em>
 ### Desarrolladora Web trainee
 
-Lenguajes en los que desarrollo: HTML, CSS, JavaScript y PHP.
+Lenguajes en los que desarrollo: <strong> HTML, CSS, JavaScript y PHP </strong>.
 
 Actualmente estoy realizando en las siguientes páginas:
 
