@@ -4,7 +4,9 @@
 Lenguajes en los que desarrollo: HTML, CSS, JavaScript y PHP.
 
 Actualmente estoy realizando en las siguientes páginas:
+
 :sparkles: Recetario-PHP: Una página para juntar y organizar todas mis recetas favoritas.
+
 :sparkles: ActividadesEnCABA: Una página que recopilará actividades, cursos, lugares y eventos gratuitos que se puedan realizar en CABA.
 
 <!--
