@@ -1,4 +1,5 @@
-### :wave: Entrá a ver mis repositorios y proyectos
+:wave: Hola! Gracias por entrar a mi perfil.
+### Desarrolladora Web trainee
 
 Lenguajes en los que desarrollo: HTML, CSS, JavaScript y PHP.
 
