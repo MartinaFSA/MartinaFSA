@@ -1,5 +1,5 @@
 <em>Hola! Gracias por entrar a mi perfil.</em>
-### Desarrolladora Web trainee
+### Desarrolladora Web
 
 Lenguajes en los que desarrollo: <strong> HTML, CSS, JavaScript y PHP </strong>.
 
