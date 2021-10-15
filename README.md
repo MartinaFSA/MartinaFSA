@@ -7,7 +7,7 @@
 
 :sparkles: ActividadesEnCABA: Una página que recopilará actividades, cursos, lugares y eventos gratuitos que se puedan realizar en CABA. Mirá el wireframe en [Figma.](https://www.figma.com/proto/BOJGILRVeEWAvGmIsq8CUC/ActividadesEnCABA?node-id=1%3A2&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2)
 
-:sparkles: Menú_carta: Es un menú carta digital pensado para restaurantes.
+:sparkles: Menu_carta: Es un menú carta digital pensado para restaurantes.
   
 <br>
 
