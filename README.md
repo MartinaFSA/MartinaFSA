@@ -3,7 +3,7 @@
 ## Desarrollo Web
 <p><strong>Te invito a pasar por los siguientes repositorios:</strong></p>
 
-:sparkles: Recetario-PHP: Una página para juntar y organizar todas mis recetas favoritas. Mirá el wireframe en [Figma.](https://www.figma.com/proto/0eOb643rYLdEKs3YLkD8MV/Recetario?node-id=108%3A16&starting-point-node-id=108%3A16&scaling=min-zoom)
+:sparkles: Recetario-PHP: Una página para juntar y organizar todas mis recetas favoritas.
 
 :sparkles: pagina-ventas (en proceso): Web de un restaurante hecha a partir de un template de HTML y CSS adaptada para usarse en React.
   
