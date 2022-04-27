@@ -5,7 +5,7 @@
 
 :sparkles: Recetario-PHP: Una página para juntar y organizar todas mis recetas favoritas. Mirá el wireframe en [Figma.](https://www.figma.com/proto/0eOb643rYLdEKs3YLkD8MV/Recetario?node-id=108%3A16&starting-point-node-id=108%3A16&scaling=min-zoom)
 
-:sparkles: curso-react: Varios proyectos para el curso de Codo a Codo. Entre ellos: Un generador de avatares con rasgos seleccionables.
+:sparkles: pagina-ventas (en proceso): Web de un restaurante hecha a partir de un template de HTML y CSS adaptada para usarse en React.
   
 <br>
 
