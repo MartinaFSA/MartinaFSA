@@ -3,12 +3,12 @@
 ## Desarrollo Web
 <p><strong>Te invito a pasar por los siguientes repositorios:</strong></p>
 
-:sparkles: Recetario-PHP: Una página para juntar y organizar todas mis recetas favoritas.
+:sparkles: [Recetario-PHP](https://github.com/MartinaFSA/Recetario-PHP): Una página para juntar y organizar todas mis recetas favoritas.
 
-:sparkles: pagina-ventas (en proceso): Web de un restaurante hecha a partir de un template de HTML y CSS adaptada para usarse en React.
+:sparkles: [pagina-ventas](https://github.com/MartinaFSA/pagina_ventas) (en proceso): Web de un restaurante hecha a partir de un template de HTML y CSS adaptada para usarse en React.
 
-:sparkles: Avatar-Generator (en proceso): Generador de avatares personalizados.
-  
+:sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator) (en proceso): Generador de avatares personalizados.
+ 
 <br>
 
 <div align="center">
