@@ -6,6 +6,8 @@
 :sparkles: Recetario-PHP: Una página para juntar y organizar todas mis recetas favoritas.
 
 :sparkles: pagina-ventas (en proceso): Web de un restaurante hecha a partir de un template de HTML y CSS adaptada para usarse en React.
+
+:sparkles: Avatar-Generator (en proceso): Generador de avatares personalizados.
   
 <br>
 
