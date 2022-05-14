@@ -7,7 +7,7 @@
 
 :sparkles: [pagina-ventas](https://github.com/MartinaFSA/pagina_ventas) (en proceso): Web de un restaurante hecha a partir de un template de HTML y CSS adaptada para usarse en React.
 
-:sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator) (en proceso): Generador de avatares personalizados.
+:sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator): Generador de avatares personalizados.
  
 <br>
 
