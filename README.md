@@ -16,6 +16,7 @@
       <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg">
       <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg">
       <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg">
+      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg">
 </div>
 
 <div align="center"> 
@@ -23,6 +24,7 @@
       <code > CSS</code>
       <code> JS</code>
       <code> PHP</code>
+      <code> React</code>
 </div>
 
   
