@@ -7,7 +7,7 @@
 
 :sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator): Creador de avatares personalizados que pueden ser descargados en formato png. Desarrollado con HTML, CSS, JS y React.
 
-:sparkles: [pagina-ventas](https://github.com/MartinaFSA/pagina_ventas) (en proceso): Menú de un restaurante hecho a partir de un template de HTML y CSS adaptado para usarse en React.
+:sparkles: [tarot_horoscopo](https://github.com/MartinaFSA/tarot_horoscopo): Página que genera un horóscopo y una tirada de cartas de tarot con datos consumidos de una API, estos son mostrados según los datos del usuario.
  
 <br>
 
