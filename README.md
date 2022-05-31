@@ -3,11 +3,11 @@
 ## Desarrollo Web
 <p><strong>Te invito a pasar por los siguientes repositorios:</strong></p>
 
-:sparkles: [Recetario-PHP](https://github.com/MartinaFSA/Recetario-PHP): Recetario web que cuenta con un sistema de registro, inicio de sesión y guardado de recetas. La subida de recetas se realiza a través de una base de datos que permite al usuario realizar búsquedas dentro de la página. Desarrollado con HTML, CSS, PHP, JavaScript y MySQL.
-
 :sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator): Creador de avatares personalizados que pueden ser descargados en formato png. Desarrollado con HTML, CSS, JS y React.
 
-:sparkles: [tarot_horoscopo](https://github.com/MartinaFSA/tarot_horoscopo): Página que genera un horóscopo y una tirada de cartas de tarot con datos consumidos de una API, estos son mostrados según los datos del usuario.
+:sparkles: [tarot_horoscopo](https://github.com/MartinaFSA/tarot_horoscopo): Página que genera un horóscopo y una tirada de cartas de tarot con datos consumidos de una API, estos son mostrados según los datos del usuario. Desarrollado con HTML, CSS, JS, Json, API y React.
+
+:sparkles: [Recetario-PHP](https://github.com/MartinaFSA/Recetario-PHP): Recetario web que cuenta con un sistema de registro, inicio de sesión y guardado de recetas. La subida de recetas se realiza a través de una base de datos que permite al usuario realizar búsquedas dentro de la página. Desarrollado con HTML, CSS, PHP, JavaScript y MySQL.
  
 <br>
 
