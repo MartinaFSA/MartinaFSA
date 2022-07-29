@@ -1,6 +1,7 @@
-<h3 align="center">Hola! Gracias por entrar a mi perfil.</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="20px"> Hola! Soy Martina Fernandez Suarez</h3>
+<hr/>
 
-## Desarrollo Web
+## :computer: Desarrollo Web
 <p><strong>Te invito a pasar por los siguientes repositorios:</strong></p>
 
 :sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator): Creador de avatares personalizados que pueden ser descargados en formato png. Desarrollado con HTML, CSS, JS y React.
@@ -12,29 +13,40 @@
 <br>
 
 <div align="center">
-      <img align="bottom" width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg">
-      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg">
-      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg">
-      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg">
-      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg">
+      <img align="bottom" width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" alt="">
+      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" alt="">
+      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg" alt="">
+      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" alt="">
+      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg" alt="">
+      <img width="40" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="">
 </div>
 
 <div align="center"> 
       <code> HTML</code>
-      <code > CSS</code>
+      <code> CSS</code>
       <code> JS</code>
       <code> PHP</code>
       <code> React</code>
+      <code> Vue</code>
 </div>
 
   
-## Estadísticas
+## :bar_chart: Estadísticas
 <div align="center">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=MartinaFSA&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20GitHub&line_height=27" alt="Estadísticas de GitHub"/> <img  height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaFSA&theme=tokyonight&locale=es&layout=compact" alt="Estadísticas de lenguajes utilizados"/>
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=MartinaFSA&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20GitHub&line_height=27" alt="Estadísticas que muestran qué días he utilizado GitHub"/> <img  height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaFSA&theme=tokyonight&locale=es&layout=compact" alt="Estadísticas que muestran cuánto he utilizado cada lenguaje"/>
  </div>
   
 
-## Contactame :speech_balloon:
+## :speech_balloon: Contactame 
 
-<h4> • <a href="https://www.linkedin.com/in/martina-fernandez-suarez-anzorena/">LinkedIn</a>
-<h4> • <a href="https://martinafernandezsuarez.com.ar">Mi página personal</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martina-fernandez-suarez-anzorena/) 
+[![Mi portfolio](https://img.shields.io/badge/Portfolio-537959?style=for-the-badge&logo=About.me&logoColor=white)](https://martinafernandezsuarez.com.ar)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MartinaFSA)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=martina.fernandez.sa@gmail.com)
+
+
+
+
+
+
+
