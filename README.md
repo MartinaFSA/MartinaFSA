@@ -40,9 +40,10 @@
 ## :speech_balloon: Contactame 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martina-fernandez-suarez-anzorena/) 
-```[![Mi portfolio](https://img.shields.io/badge/Portfolio-537959?style=for-the-badge&logo=About.me&logoColor=white)](https://martinafernandezsuarez.com.ar)```
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MartinaFSA)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=martina.fernandez.sa@gmail.com)
+
+
 
 
 
