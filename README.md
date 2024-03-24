@@ -1,51 +1,47 @@
-<h3 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="20px"> Hola! Soy Martina Fernandez Suarez</h3>
-<hr/>
+<!--Header-->
+<div align="center">
+ <h3><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" alt="Waving hand" width="20px">Hi! I'm Martina Fernandez Suarez</h3>
+ <hr/>
+ <code><a href="https://www.linkedin.com/in/martina-fernandez-suarez/" target="_blank" rel="noreferrer" aria-label="Go to my LinkedIn profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
+ <code><a href="https://github.com/MartinaFSA" target="_blank" rel="noreferrer" aria-label="Go to my Github profile"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/></a></code>
+ <code><a href="https://www.instagram.com/mafesa._/" target="_blank" rel="noreferrer" aria-label="Go to my Instagram profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></code>
+ <code><a href="https://mail.google.com/mail/?view=cm&source=mailto&to=martinafsa8@gmail.com" target="_blank" aria-label="Email me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
+</div>
 
-## :computer: Desarrollo Web
-<p><strong>Te invito a pasar por los siguientes repositorios:</strong></p>
+<br>
 
-:sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator): Creador de avatares personalizados que pueden ser descargados en formato png. Desarrollado con HTML, CSS, JS y React.
+<!--Projects-->
+#### :computer: Check out some of my recent projects:
+:sparkles: [Synthetizer Beats](https://github.com/MartinaFSA/synthetizer): Retro-style game inspired in bitcrushed music. It allows users to compose songs by using three different instruments and record their masterpieces. The whole experience is complemented with CRT-TV-like images and low-quality icons. Developed with HTML, CSS, JS, Vue, JSON, MediaDevices API and Firebase.
 
-:sparkles: [tarot_horoscopo](https://github.com/MartinaFSA/tarot_horoscopo): Página que genera un horóscopo y una tirada de cartas de tarot con datos consumidos de una API, estos son mostrados según los datos del usuario. Desarrollado con HTML, CSS, JS, Json, API y React.
-
-:sparkles: [Recetario-PHP](https://github.com/MartinaFSA/Recetario-PHP): Recetario web que cuenta con un sistema de registro, inicio de sesión y guardado de recetas. La subida de recetas se realiza a través de una base de datos que permite al usuario realizar búsquedas dentro de la página. Desarrollado con HTML, CSS, PHP, JavaScript y MySQL.
+:sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator): Create a custom avatar and download it as a png image. Developed with HTML, CSS, JS and React.
  
 <br>
 
+<!--Tech Stack-->
+#### :computer: Tech Stack used on my published repositories
 <div align="center">
-      <img align="bottom" width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" alt="">
-      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" alt="">
-      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg" alt="">
-      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" alt="">
-      <img width="40" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg" alt="">
-      <img width="40" src="https://img.icons8.com/color/48/000000/vue-js.png" alt="">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,react,vue,bootstrap,mysql,postgresql,firebase" alt="">
 </div>
 
 <div align="center"> 
-      <code> HTML</code>
-      <code> CSS</code>
-      <code> JS</code>
-      <code> PHP</code>
-      <code> React</code>
-      <code> Vue</code>
+      <code width="40">HTML</code>
+      <code width="40">CSS</code>
+      <code width="40">JS</code>
+      <code width="40">PHP</code>
+      <code width="40">React</code>
+      <code width="40">Vue</code>
+      <code width="40">Bootstrap</code>
+      <code width="40">MySQL</code>
+      <code width="40">PostgreSQL</code>
+      <code width="40">Firebase</code>
 </div>
 
   
-## :bar_chart: Estadísticas
+### :bar_chart: Stats
 <div align="center">
     <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=MartinaFSA&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20GitHub&line_height=27" alt="Estadísticas que muestran qué días he utilizado GitHub"/> <img  height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaFSA&theme=tokyonight&locale=es&layout=compact" alt="Estadísticas que muestran cuánto he utilizado cada lenguaje"/>
  </div>
-  
-
-## :speech_balloon: Contactame 
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martina-fernandez-suarez/) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/MartinaFSA)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=martinafsa8@gmail.com)
-
-
-
-
 
 
 
