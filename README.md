@@ -11,7 +11,7 @@
 <br>
 
 <!--Projects-->
-#### :computer: Check out some of my recent projects:
+### :computer: Check out some of my recent projects:
 :sparkles: [Synthetizer Beats](https://github.com/MartinaFSA/synthetizer): Retro-style game inspired in bitcrushed music. It allows users to compose songs by using three different instruments and record their masterpieces. The whole experience is complemented with CRT-TV-like images and low-quality icons. Developed with HTML, CSS, JS, Vue, JSON, MediaDevices API and Firebase.
 
 :sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator): Create a custom avatar and download it as a png image. Developed with HTML, CSS, JS and React.
@@ -19,7 +19,7 @@
 <br>
 
 <!--Tech Stack-->
-#### :computer: Tech Stack used on my published repositories
+### :computer: Tech Stack used on my published repositories
 <div align="center">
       <img src="https://skillicons.dev/icons?i=html,css,js,php,react,vue,bootstrap,mysql,postgresql,firebase" alt="">
 </div>
@@ -40,7 +40,8 @@
   
 ### :bar_chart: Stats
 <div align="center">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=MartinaFSA&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20GitHub&line_height=27" alt="Estadísticas que muestran qué días he utilizado GitHub"/> <img  height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaFSA&theme=tokyonight&locale=es&layout=compact" alt="Estadísticas que muestran cuánto he utilizado cada lenguaje"/>
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=MartinaFSA&show_icons=true&theme=tokyonight&locale=en&custom_title=Github%20Dashboard%&line_height=27" alt="Staticts board showing how I've used GitHub"/>
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaFSA&theme=tokyonight&locale=en&layout=compact&custom_title=Most%20used%20languages" alt="Statics shoing how much I've used each language"/>
  </div>
 
 
