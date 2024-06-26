@@ -11,13 +11,13 @@
 <br>
 
 <!--Projects-->
-### :computer: Check out some of my recent projects:
+<!--### :computer: Check out some of my recent projects:
 
 :sparkles: [newsMagazine](https://github.com/MartinaFSA/newsMagazine): Modern online news portal with capacity for a robust amount of articles. Common users are able to read an unlimited amount of essay and news uploaded by the organization's writers. Collaborators can access and edit their public profiles and create their pieces from inside the webpage. Developed with Vue, custom PHP Rest API, MySQL database and Firebase.
 
 :sparkles: [Synthetizer Beats](https://github.com/MartinaFSA/synthetizer): Retro-style game inspired in bitcrushed music. It allows users to compose songs by using three different instruments and record their masterpieces. The whole experience is complemented with CRT-TV-like images and low-quality icons. Developed with Vue, JSON, MediaDevices API and Firebase.
 
-:sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator): Create a custom avatar and download it as a png image. Developed with HTML, CSS, JS and React.
+:sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator): Create a custom avatar and download it as a png image. Developed with HTML, CSS, JS and React.-->
  
 <br>
 
