@@ -39,15 +39,3 @@
       <code width="40">PostgreSQL</code>
       <code width="40">Firebase</code>
 </div>
-
-  
-### :bar_chart: Stats
-<div align="center">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=MartinaFSA&show_icons=true&theme=tokyonight&locale=en&custom_title=Github%20Dashboard%&line_height=27" alt="Staticts board showing how I've used GitHub"/>
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinaFSA&theme=tokyonight&locale=en&layout=compact&custom_title=Most%20used%20languages" alt="Statics shoing how much I've used each language"/>
- </div>
-
-
-
-
-
