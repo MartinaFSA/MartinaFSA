@@ -10,7 +10,7 @@
 
 <br>
 
-<!--Projects-->
+<!--Projects
 ### :computer: Check out some of my recent projects:
 
 :sparkles: [newsMagazine](https://github.com/MartinaFSA/newsMagazine): Modern online news portal with capacity for a robust amount of articles. Common users are able to read an unlimited amount of essay and news uploaded by the organization's writers. Collaborators can access and edit their public profiles and create their pieces from inside the webpage. Developed with Vue, custom PHP Rest API, MySQL database and Firebase.
@@ -19,7 +19,7 @@
 
 :sparkles: [Avatar_Generator](https://github.com/MartinaFSA/Avatar_Generator): Create a custom avatar and download it as a png image. Developed with HTML, CSS, JS and React.
  
-<br>
+<br>-->
 
 <!--Tech Stack-->
 ### :computer: Tech Stack used on my published repositories
