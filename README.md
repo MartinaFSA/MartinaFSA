@@ -24,7 +24,7 @@
 <!--Tech Stack-->
 ### :computer: Tech Stack used on my published repositories
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,php,node,react,vue,bootstrap,mysql,postgresql,firebase" alt="">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,react,vue,bootstrap,mysql,postgresql,firebase" alt="">
 </div>
 
 <div align="center"> 
