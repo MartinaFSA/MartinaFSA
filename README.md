@@ -24,7 +24,7 @@
 <!--Tech Stack-->
 ### :computer: Tech Stack used on my published repositories
 <div align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,php,react,vue,bootstrap,mysql,postgresql,firebase" alt="">
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,node,react,vue,bootstrap,mysql,postgresql,firebase" alt="">
 </div>
 
 <div align="center"> 
@@ -32,6 +32,7 @@
       <code width="40">CSS</code>
       <code width="40">JS</code>
       <code width="40">PHP</code>
+      <code width="40">Node</code>
       <code width="40">React</code>
       <code width="40">Vue</code>
       <code width="40">Bootstrap</code>
