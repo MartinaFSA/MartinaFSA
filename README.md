@@ -4,7 +4,6 @@
  <hr/>
  <code><a href="https://www.linkedin.com/in/martina-fernandez-suarez/" target="_blank" rel="noreferrer" aria-label="Go to my LinkedIn profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
  <code><a href="https://github.com/MartinaFSA" target="_blank" rel="noreferrer" aria-label="Go to my Github profile"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"/></a></code>
- <code><a href="https://www.instagram.com/mafesa._/" target="_blank" rel="noreferrer" aria-label="Go to my Instagram profile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></code>
  <code><a href="https://mail.google.com/mail/?view=cm&source=mailto&to=martinafsa8@gmail.com" target="_blank" aria-label="Email me"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></code>
 </div>
 
